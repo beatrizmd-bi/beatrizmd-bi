@@ -16,19 +16,16 @@
 - Interesse em Segurança da Informação e infraestrutura de redes.
 - Em constante aprimoramento dos conhecimentos técnicos.
 
-<h2>Conhecimentos</h2>
 
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🐘 PHP
-- 🗄️ Banco de Dados
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" />
+</div>
 
-<h2>Projetos</h2>
+<h2 align="center">🚀 Meus Projetos</h2>
 
-<p>
-  Em breve, projetos desenvolvidos durante minha formação
-  em Programação Web e Tecnologia.
+<p align="center">
+  Aqui você encontrará projetos desenvolvidos durante minha jornada
+  de aprendizado em tecnologia, programação e desenvolvimento web.
 </p>
 
 <<h2 align="center">📊 Estatísticas</h2>
