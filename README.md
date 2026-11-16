@@ -34,3 +34,7 @@
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=beatrizmd-bi&show_icons=true&theme=tokyonight"/>
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatrizmd-bi&layout=compact&theme=tokyonight"/>
 </div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/beatrizmd-bi/beatrizmd-bi/output/github-snake.svg" />
+</div>
