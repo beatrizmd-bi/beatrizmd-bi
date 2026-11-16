@@ -31,8 +31,9 @@
   em Programação Web e Tecnologia.
 </p>
 
-<h2>Estatísticas</h2>
+<<h2 align="center">📊 Estatísticas</h2>
 
-<div align ="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizmd-bi&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<div align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=beatrizmd-bi&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beatrizmd-bi&layout=compact&theme=tokyonight"/>
 </div>
