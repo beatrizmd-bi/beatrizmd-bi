@@ -28,7 +28,7 @@
   de aprendizado em tecnologia, programação e desenvolvimento web.
 </p>
 
-<<h2 align="center">📊 Estatísticas</h2>
+<h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=beatrizmd-bi&show_icons=true&theme=tokyonight"/>
