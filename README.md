@@ -9,10 +9,10 @@
   desenvolvimento web, infraestrutura e redes de computadores.
 </p>
 
-<h2>Sobre mim</h2>
+<h2 align="center"> 👩‍💻 Sobre mim</h2>
 
 - Estudante de Programação Web e Redes de Computadores.
-- Foco profissional em Cibersegurança.
+- Interesse profissional na área de Cibersegurança.
 - Interesse em Segurança da Informação e infraestrutura de redes.
 - Em constante aprimoramento dos conhecimentos técnicos.
 
