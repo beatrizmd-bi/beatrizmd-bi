@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Ana Beatriz</h1>
 
-<!--
-**beatrizmd-bi/beatrizmd-bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Formação em Programação Web e Redes de Computadores
+</h3>
 
-Here are some ideas to get you started:
+<p align ="center">
+  Estudante da área de Tecnologia da Informação, com foco em 
+  desenvolvimento web, infraestrutura e redes de computadores.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Sobre mim</h2>
+
+- Estudante de Programação Web e Redes de Computadores.
+- Foco profissional em Cibersegurança.
+- Interesse em Segurança da Informação e infraestrutura de redes.
+- Em constante aprimoramento dos conhecimentos técnicos.
+
+<h2>Conhecimentos</h2>
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐘 PHP
+- 🗄️ Banco de Dados
+
+<h2>Projetos</h2>
+
+<p>
+  Em breve, projetos desenvolvidos durante minha formação
+  em Programação Web e Tecnologia.
+</p>
+
+<h2>Estatísticas</h2>
+
+<div align ="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizmd-bi&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+</div>
